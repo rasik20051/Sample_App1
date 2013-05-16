@@ -1,0 +1,1 @@
+This is a sample Rail application based on Rails Framework.This is the readme page of Sample_App1
